@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Me chamo Juan França</h1>
 <h3 align="center">Sou um Desenvolvedor Web e Mobile</h3>
 
-- 🔭 Conhecimentos: **Atualmente estou focado em Desenvolvimento Mobile e Web..**
+- 🔭 Conhecimentos: **Atualmente estou focado em Desenvolvimento Mobile e Web.**
 
 - 💬 Tecnologias: **Django, React Native, Laravel, AdonisJS**
 
