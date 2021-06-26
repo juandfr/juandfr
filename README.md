@@ -9,7 +9,7 @@
 
 - 💬 Tecnologias: **Django, React Native, Laravel, AdonisJS**
 
-- 📫 How to reach me **juanfrancavida@gmail.com**
+- 📫 Contato: **juanfrancavida@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
