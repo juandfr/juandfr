@@ -13,10 +13,6 @@
 
 - 🐧 OS: **Usuário Linux**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Rede sociais:</h3>
 <p align="left">
 <a href="https://dev.to/juandfr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="juandfr" height="30" width="40" /></a>
