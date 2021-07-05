@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Juan França</h1>
-<h3 align="center">Sou um Desenvolvedor Web e Mobile</h3>
+<h3 align="center">Desenvolvedor Web e Mobile</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandfr" alt="juandfr" /></a> </p>
 
