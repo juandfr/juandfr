@@ -1,7 +1,11 @@
 <h1 align="center">Olá 👋, Me chamo Juan França</h1>
 <h3 align="center">Desenvolvedor Web e Mobile</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandfr" alt="juandfr" /></a> </p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juandfr&theme=blueberry" alt="Juandfr's GitHub stats" width=95%/>
+<img src="https://github-readme-stats.vercel.app/api?username=juandfr&count_private=true&show_icons=true&theme=blueberry" width=55% height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandfr&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
