@@ -1,15 +1,6 @@
 <h1 align="center">Olá 👋, Me chamo Juan França</h1>
 <h3 align="center">Desenvolvedor Web e Mobile</h3>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juandfr&theme=blueberry" alt="Juandfr's GitHub stats" width=95%/>
-<img src="https://github-readme-stats.vercel.app/api?username=juandfr&count_private=true&show_icons=true&theme=blueberry" width=55% height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandfr&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
-</p>
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p align="center">
 - 🔭 Conhecimentos: **Desenvolvimento Web/Mobile e UX/UI Design**
 
 - 💬 Tecnologias: **Django, React Native, Laravel, AdonisJS**
@@ -17,7 +8,14 @@
 - 📫 Contato: **juanfrancavida@gmail.com**
 
 - 🐧 OS: **Usuário Linux**
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juandfr&theme=blueberry" alt="Juandfr's GitHub stats" width=95%/>
+<img src="https://github-readme-stats.vercel.app/api?username=juandfr&count_private=true&show_icons=true&theme=blueberry" width=55% height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandfr&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
 </p>
+
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="center">Rede sociais:</h3>
 <p align="center">
