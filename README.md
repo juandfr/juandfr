@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Juan França</h1>
-<h3 align="center">Desenvolvedor Web e Mobile</h3>
+<h3 align="center">Desenvolvedor Web</h3>
 
 - 🔭 Conhecimentos: **Desenvolvimento Web**
 
