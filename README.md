@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Me chamo Juan França</h1>
 <h3 align="center">Desenvolvedor Web e Mobile</h3>
 
-- 🔭 Conhecimentos: **Desenvolvimento Web/Mobile e UX/UI Design**
+- 🔭 Conhecimentos: **Desenvolvimento Web**
 
-- 💬 Tecnologias: **Django, React Native, Laravel, AdonisJS**
+- 💬 Tecnologias: **Django, Laravel, AdonisJS, React Native,**
 
 - 📫 Contato: **juanfrancavida@gmail.com**
 
