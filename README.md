@@ -3,7 +3,7 @@
 
 - 🔭 Conhecimentos: **Desenvolvimento Web/Mobile**
 
-- 💬 Tecnologias: **Python, Django, PHP, Laravel, Javascript, AdonisJS, React Native, VueJS**
+- 💬 Tecnologias: **Javascript, Typescript, Python, React, Django, AdonisJS, PHP, Laravel**
 
 - 📫 Contato: **juanfrancavida@gmail.com**
 
